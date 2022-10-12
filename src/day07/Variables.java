@@ -9,8 +9,8 @@ public class Variables {
 
         //Karenin alanını ve çevresini hesaplayınız.
         int kenar=5;
-        System.out.println(kenar*kenar);
-        System.out.println(4*kenar);
+        System.out.println("Karenin Alanı = " + kenar*kenar);
+        System.out.println("Karenin Çevresi = " + 4*kenar);
 
     }
 }
