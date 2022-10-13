@@ -10,7 +10,7 @@ public class VariableDeclaration4 {
         float telefonunAgirligi=320.8F;
 
         int x=80;
-       
+
 
 
 
